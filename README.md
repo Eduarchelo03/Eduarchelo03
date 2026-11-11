@@ -71,17 +71,3 @@ SysPulse
 ```
 
 The goal is to keep it **fast, lightweight and Linux-focused** while improving my knowledge of low-level programming and the Linux environment.
-
-## 📊 GitHub Stats
-
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduarchelo03&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarchelo03&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-```bash
-eduardo@linux:~$ echo "Keep building."
-Keep building.
-```
-```
