@@ -1,4 +1,4 @@
-# Hey, I'm Eduardo Isaac Gutiérrez 👋
+# Hey, I'm Eduardo Isaac Gutiérrez
 
 💻 I'm a **Computer Systems Engineer** from the Technological University of Panama (UTP), interested in C/C++, Python, Linux and backend systems.
 
