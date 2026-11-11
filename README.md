@@ -1,6 +1,6 @@
-# Hey, I'm Eduardo 👋
+# Hey, I'm Eduardo Isaac Gutiérrez 👋
 
-💻 Developer interested in **C/C++**, **Python**, Linux and backend systems.
+💻 I'm a **Computer Systems Engineer** from the Technological University of Panama (UTP), interested in C/C++, Python, Linux and backend systems.
 
 I enjoy understanding how things work under the hood, building lightweight tools, automating processes and experimenting with Linux environments.
 
