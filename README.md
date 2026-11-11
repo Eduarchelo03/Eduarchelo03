@@ -1,4 +1,3 @@
-```markdown
 # Hey, I'm Eduardo 👋
 
 💻 Developer interested in **C/C++**, **Python**, Linux and backend systems.
@@ -71,3 +70,10 @@ SysPulse
 ```
 
 The goal is to keep it **fast, lightweight and Linux-focused** while improving my knowledge of low-level programming and the Linux environment.
+
+---
+
+```bash
+eduardo@linux:~$ echo "Keep building."
+Keep building.
+```
