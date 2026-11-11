@@ -85,17 +85,3 @@ eduardo@linux:~$ echo "Keep building."
 Keep building.
 ```
 ```
-
-### Cómo ponerlo en tu perfil de GitHub
-
-1. En GitHub crea un **repositorio nuevo con exactamente el mismo nombre que tu usuario**. Si tu usuario es `Eduarchelo03`, el repositorio debe llamarse `Eduarchelo03`.
-2. Déjalo **público** y marca **Add a README file**.
-3. GitHub debería indicarte que es un repositorio especial porque su `README.md` aparecerá en tu perfil.
-4. Abre `README.md` → **Edit**.
-5. Borra lo que tenga y pega el contenido que te preparé.
-6. Pulsa **Commit changes**.
-7. Entra a tu perfil y el README aparecerá automáticamente encima de tus repositorios.
-
-Y una cosa que creo que quedaría muy bien: **la imagen de perfil minimalista que generamos combina mejor con este README que la versión hacker encapuchado**. El perfil queda más de “systems/Linux developer” y menos de típico perfil cybersecurity.
-
-Después podemos hacerte un **banner horizontal para poner arriba de este README**, con `Eduardo • C/C++ • Python • Linux` y referencias sutiles a Arch/Debian/Kali.
